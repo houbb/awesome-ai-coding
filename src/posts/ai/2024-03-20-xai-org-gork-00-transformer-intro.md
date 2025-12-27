@@ -1,7 +1,7 @@
 ---
 
 title: 马斯克开源的 grok-1 大模型底层 Transformer 模型到底是个啥？（翻译）
-date: 2024-03-20 21:01:55 +0800
+date: 2024-03-20
 categories: [AI]
 tags: [ai, sh]
 published: true

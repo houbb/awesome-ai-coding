@@ -1,7 +1,7 @@
 ---
 
 title: dive-into-llms-02-deeplearning 深度学习基础知识入门
-date: 2025-11-03 20:40:12 +0800
+date: 2025-11-03
 categories: [AI]
 tags: [ai, learn-note]
 published: true

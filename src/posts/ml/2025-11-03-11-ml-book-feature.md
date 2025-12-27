@@ -1,7 +1,7 @@
 ---
 
 title: 第11章　特征工程与数据处理
-date: 2025-11-03 20:40:12 +0800
+date: 2025-11-03
 categories: [AI]
 tags: [ai, learn-note]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: 体验了一下 Trae AI 编辑器 时代学习编程如此丝滑 
-date: 2025-3-7 19:49:19 +0800
+date: 2025-3-7
 categories: [AI]
 tags: [ai, vue3, vu3, learn, sh]
 published: true

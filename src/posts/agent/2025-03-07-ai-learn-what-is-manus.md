@@ -1,7 +1,7 @@
 ---
 
 title: Manus AI 全球首款通用型AI Agent?
-date: 2025-3-7 19:49:19 +0800
+date: 2025-3-7
 categories: [AI]
 tags: [ai, vue3, vu3, learn, sh]
 published: true

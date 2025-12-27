@@ -1,7 +1,7 @@
 ---
 
 title: openai chatgpt paper-01-openai DALL-E 3 论文 Improving Image Generation with Better Captions  提升图像生成的关键：更好的图像描述
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, paper, sh]
 published: true

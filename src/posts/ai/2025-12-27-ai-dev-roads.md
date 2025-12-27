@@ -1,7 +1,7 @@
 ---
 
 title: AI 编程的发展路线图
-date: 2025-12-27 21:01:55 +0800
+date: 2025-12-27
 categories: [AI]
 tags: [ai, ai-coding, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: dive-into-llms-21-传统机器学习在各个领域的使用
-date: 2025-11-03 20:40:12 +0800
+date: 2025-11-03
 categories: [AI]
 tags: [ai, learn-note]
 published: true

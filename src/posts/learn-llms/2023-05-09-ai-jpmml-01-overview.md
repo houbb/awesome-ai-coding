@@ -1,7 +1,7 @@
 ---
 
 title: JPMML-01-入门介绍
-date:  2023-05-09 +0800
+date: 2023-05-09
 categories: [AI]
 tags: [ai, sh]
 published: true

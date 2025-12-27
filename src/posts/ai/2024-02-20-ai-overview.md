@@ -1,7 +1,7 @@
 ---
 
 title: AI 概览
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, aigc, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: AI-14-WeChatMsg 我的数据我做主
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, aigc, chatgpt, gpt, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: AI-01-autoGPT 根据设定的目标，自主地拆解任务并执行，减少了对人工提示的依赖
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, aigc, sh]
 published: true

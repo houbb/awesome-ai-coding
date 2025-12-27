@@ -1,7 +1,7 @@
 ---
 
 title: AI-04-NextChat 一键免费部署你的私人 ChatGPT 网页应用，支持 GPT3, GPT4 & Gemini Pro 模型
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, aigc, chatgpt, gpt, sh]
 published: true

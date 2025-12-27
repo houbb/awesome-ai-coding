@@ -1,7 +1,7 @@
 ---
 
 title: 如何入门学习 AI-03-数学
-date:  2023-04-14 +0800
+date: 2023-04-14
 categories: [AI]
 tags: [ai, sh]
 published: true

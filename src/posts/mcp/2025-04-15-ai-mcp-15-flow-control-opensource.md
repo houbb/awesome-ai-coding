@@ -1,7 +1,7 @@
 ---
 
 title: AI MCP(大模型上下文)-15-流程控制中最重要的可视化 DSL 开源工具
-date: 2025-4-15 17:51:19 +0800
+date: 2025-4-15
 categories: [AI]
 tags: [ai, mcp, sh]
 published: true

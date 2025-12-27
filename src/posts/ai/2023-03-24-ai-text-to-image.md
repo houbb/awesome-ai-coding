@@ -1,7 +1,7 @@
 ---
 
 title: chatGPT 遇上 stable-diffusion text-to-image 文本生成图片
-date:  2023-03-24 +0800
+date: 2023-03-24
 categories: [AI]
 tags: [tool, ai, sh]
 published: true

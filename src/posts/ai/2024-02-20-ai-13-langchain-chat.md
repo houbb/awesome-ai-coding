@@ -1,7 +1,7 @@
 ---
 
 title: AI-13-Langchain-Chatchat 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, aigc, chatgpt, gpt, sh]
 published: true

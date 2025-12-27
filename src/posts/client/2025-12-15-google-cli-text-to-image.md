@@ -1,7 +1,7 @@
 ---
 
 title: GOOGLE CLI 入门体验
-date: 2025-12-15 21:01:55 +0800
+date: 2025-12-15
 categories: [AI]
 tags: [ai, ai-coding, sh]
 published: true

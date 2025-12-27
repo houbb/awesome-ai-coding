@@ -1,7 +1,7 @@
 ---
 
 title: openai chatGPT 原理通俗介绍
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, paper, sh]
 published: true

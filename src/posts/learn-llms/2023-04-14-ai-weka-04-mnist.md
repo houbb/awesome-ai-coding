@@ -1,7 +1,7 @@
 ---
 
 title: Weka 入门学习-04-mnist 手写数字和字母数据集
-date:  2023-04-14 +0800
+date: 2023-04-14
 categories: [AI]
 tags: [ai, weka, sh]
 published: true

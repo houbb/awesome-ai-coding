@@ -1,7 +1,7 @@
 ---
 
 title: AI-02-openui 允许您使用想象力描述用户界面，然后看到其实时渲染。
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, aigc, sh]
 published: true

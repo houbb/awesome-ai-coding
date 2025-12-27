@@ -1,7 +1,7 @@
 ---
  
 title: AI CHATGPT 使用初体验  
-date: 2022-12-06 21:01:55 +0800
+date: 2022-12-06
 categories: [AI] 
 tags: [ai, tool, sh]
 published: true

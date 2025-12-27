@@ -1,7 +1,7 @@
 ---
 
 title: AI SDD 开发规范-18-可直接落地使用的《GEMINI.md 标准模板（历史项目）》
-date: 2025-11-20 14:12:33 +0800
+date: 2025-11-20
 categories: [AI]
 tags: [ai, sdd, sh]
 published: true

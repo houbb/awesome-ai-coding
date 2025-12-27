@@ -1,7 +1,7 @@
 ---
 
 title: AI MCP(大模型上下文)-03-open webui 介绍 是一个可扩展、功能丰富且用户友好的本地部署 AI 平台，支持完全离线运行。
-date: 2025-4-15 17:51:19 +0800
+date: 2025-4-15
 categories: [AI]
 tags: [ai, mcp, sh]
 published: true

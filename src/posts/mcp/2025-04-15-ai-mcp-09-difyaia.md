@@ -1,7 +1,7 @@
 ---
 
 title: AI MCP(大模型上下文)-09-基于Dify自主创建的AI应用DSL工作流
-date: 2025-4-15 17:51:19 +0800
+date: 2025-4-15
 categories: [AI]
 tags: [ai, mcp, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: AI SDD 开发规范-09-SKILLS 中文
-date: 2025-11-20 14:12:33 +0800
+date: 2025-11-20
 categories: [AI]
 tags: [ai, sdd, sh]
 published: true

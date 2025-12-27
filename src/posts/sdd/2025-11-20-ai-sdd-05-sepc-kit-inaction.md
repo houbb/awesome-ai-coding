@@ -1,7 +1,7 @@
 ---
 
 title: AI SDD 开发规范-05-spec-kit 使用入门实战，以及如何应用到 Trae 实战
-date: 2025-11-20 14:12:33 +0800
+date: 2025-11-20
 categories: [AI]
 tags: [ai, sdd, sh]
 published: true

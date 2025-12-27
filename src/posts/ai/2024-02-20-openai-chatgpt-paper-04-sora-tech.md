@@ -1,7 +1,7 @@
 ---
 
 title: openai sora 只能根据文本生成视频？不，TA 是通用物理世界模拟器
-date: 2024-02-20 21:01:55 +0800
+date: 2024-02-20
 categories: [AI]
 tags: [ai, paper, sh]
 published: true

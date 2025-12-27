@@ -1,7 +1,7 @@
 ---
 
 title: 马斯克开源的 grok-1 底层 Transformer 模型论文 《Attention is All You Need》
-date: 2024-03-20 21:01:55 +0800
+date: 2024-03-20
 categories: [AI]
 tags: [ai, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: 第15章　时序数据与预测
-date: 2025-11-03 20:40:12 +0800
+date: 2025-11-03
 categories: [AI]
 tags: [ai, learn-note]
 published: true
