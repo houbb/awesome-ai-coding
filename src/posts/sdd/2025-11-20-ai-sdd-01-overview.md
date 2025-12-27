@@ -329,5 +329,3 @@ OpenSpec 是未来标准。
 https://mybatis.org/mybatis-3/zh_CN/sqlmap-xml.html#Parameters
 
 
-* any list
-{:toc}

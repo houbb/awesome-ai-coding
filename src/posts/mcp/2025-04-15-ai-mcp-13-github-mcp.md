@@ -330,5 +330,3 @@ export GITHUB_MCP_TOOL_ADD_ISSUE_COMMENT_DESCRIPTION="一个替代描述"
 
 https://github.com/github/github-mcp-server
 
-* any list
-{:toc}

@@ -142,5 +142,3 @@ skills-ref to-prompt <path>...
 
 https://chatgpt.com/c/694df079-52ac-8322-acf2-2ba5116913ea
 
-* any list
-{:toc}

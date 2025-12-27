@@ -278,5 +278,3 @@ AI 在 Hard Rules 上**零容忍**，在 Soft Rules 上需显式说明取舍。
 
 # 参考资料
 
-* any list
-{:toc}

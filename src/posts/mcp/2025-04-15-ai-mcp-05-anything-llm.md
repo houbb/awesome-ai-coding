@@ -154,8 +154,6 @@ Mintplex Labs和社区维护了许多部署方法、脚本和模板，您可以�
 | --------------------------------------------------- |
 | [![在Railway上部署][railway-btn]][railway-deploy] |
 
-[其他方案：不使用Docker配置AnythingLLM实例 →](../BARE_METAL.md)
-
 ## 如何设置开发环境
 
 - `yarn setup` 填充每个应用程序部分所需的 `.env` 文件（从仓库的根目录）。
@@ -163,10 +161,6 @@ Mintplex Labs和社区维护了许多部署方法、脚本和模板，您可以�
 - `yarn dev:server` 在本地启动服务器（从仓库的根目录）。
 - `yarn dev:frontend` 在本地启动前端（从仓库的根目录）。
 - `yarn dev:collector` 然后运行文档收集器（从仓库的根目录）。
-
-[了解文档](../server/storage/documents/DOCUMENTS.md)
-
-[了解向量缓存](../server/storage/vector-cache/VECTOR_CACHE.md)
 
 ## 如何贡献
 
@@ -196,44 +190,22 @@ Mintplex Labs和社区维护了许多部署方法、脚本和模板，您可以�
 - 使用中的LLM类型。让我们知道谁才是最受欢迎的LLM模型，并在后续更新中优先考虑相应模型。
 - 信息被`发送`出去。这是最常规的“事件/行为/event”，并让我们了解到所有安装了这个项目的每日活动情况。同样，只收集`发送`这个行为的信息，我们不会收集关于聊天本身的性质或内容的任何信息。
 
-您可以通过查找所有调用`Telemetry.sendTelemetry`的位置来验证这些声明。此外，如果启用，这些事件也会被写入输出日志，因此您也可以看到发送了哪些具体数据。不收集IP或其他识别信息。Telemetry远程信息收集的方案来自[PostHog](https://posthog.com/) - 一个开源的远程信息收集服务。
+您可以通过查找所有调用`Telemetry.sendTelemetry`的位置来验证这些声明。
 
-[在源代码中查看所有信息收集活动](https://github.com/search?q=repo%3AMintplex-Labs%2Fanything-llm%20.sendTelemetry\(&type=code)
+此外，如果启用，这些事件也会被写入输出日志，因此您也可以看到发送了哪些具体数据。
 
-</details>
+不收集IP或其他识别信息。Telemetry远程信息收集的方案来自[PostHog](https://posthog.com/) - 一个开源的远程信息收集服务。
 
 ## 🔗 更多产品
 
 - **[VectorAdmin][vector-admin]**：一个用于管理向量数据库的全方位GUI和工具套件。
 - **[OpenAI Assistant Swarm][assistant-swarm]**：一个智能体Agent就可以管理您所有的OpenAI助手。
 
-版权所有 © 2025 [Mintplex Labs][profile-link]。<br />
+版权所有 © 2025 [Mintplex Labs][profile-link]。
+
 本项目采用[MIT](https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE)许可证。
-
-<!-- LINK GROUP -->
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-222628?style=flat-square
-[profile-link]: https://github.com/mintplex-labs
-[vector-admin]: https://github.com/mintplex-labs/vector-admin
-[assistant-swarm]: https://github.com/Mintplex-Labs/openai-assistant-swarm
-[docker-btn]: ../images/deployBtns/docker.png
-[docker-deploy]: ../docker/HOW_TO_USE_DOCKER.md
-[aws-btn]: ../images/deployBtns/aws.png
-[aws-deploy]: ../cloud-deployments/aws/cloudformation/DEPLOY.md
-[gcp-btn]: https://deploy.cloud.run/button.svg
-[gcp-deploy]: ../cloud-deployments/gcp/deployment/DEPLOY.md
-[do-btn]: https://www.deploytodo.com/do-btn-blue.svg
-[do-deploy]: ../cloud-deployments/digitalocean/terraform/DEPLOY.md
-[render-btn]: https://render.com/images/deploy-to-render-button.svg
-[render-deploy]: https://render.com/deploy?repo=https://github.com/Mintplex-Labs/anything-llm&branch=render
-[render-btn]: https://render.com/images/deploy-to-render-button.svg
-[render-deploy]: https://render.com/deploy?repo=https://github.com/Mintplex-Labs/anything-llm&branch=render
-[railway-btn]: https://railway.app/button.svg
-[railway-deploy]: https://railway.app/template/HNSCS1?referralCode=WFgJkn
 
 # 参考资料
 
 https://github.com/Mintplex-Labs/anything-llm
 
-* any list
-{:toc}

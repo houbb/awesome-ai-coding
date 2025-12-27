@@ -386,5 +386,3 @@ openspec validate --strict
 
 [TRAE使用openspec](https://blog.csdn.net/qq_30632605/article/details/153780412)
 
-* any list
-{:toc}

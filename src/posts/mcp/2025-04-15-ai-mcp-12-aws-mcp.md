@@ -269,5 +269,3 @@ Amazon Q CLI MCP 的配置示例（`~/.aws/amazonq/mcp.json`）：
 
 https://github.com/awslabs/mcp/blob/main/README.md
 
-* any list
-{:toc}

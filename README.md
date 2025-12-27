@@ -22,6 +22,12 @@ npm install
 npm run docs:clean-dev
 ```
 
+### 本地编译
+
+```
+npm run docs:clean-dev
+```
+
 # 系列专题
 
 ## 读书笔记（知识输入）

@@ -223,5 +223,3 @@ docker compose up -d
 
 https://github.com/langgenius/dify/blob/main/README_CN.md
 
-* any list
-{:toc}

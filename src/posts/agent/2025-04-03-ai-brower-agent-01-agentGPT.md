@@ -124,5 +124,3 @@ CLI 会帮助您配置以下内容：
 
 https://github.com/reworkd/AgentGPT
 
-* any list
-{:toc}

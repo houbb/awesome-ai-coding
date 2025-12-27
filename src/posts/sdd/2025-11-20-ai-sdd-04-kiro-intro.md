@@ -97,5 +97,3 @@ Kiro 官方提供了详细文档，涵盖以下内容：([GitHub][1])
 
 https://github.com/kirodotdev/Kiro
 
-* any list
-{:toc}

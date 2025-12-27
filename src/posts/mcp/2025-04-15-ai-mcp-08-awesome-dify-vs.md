@@ -402,5 +402,3 @@ GitHub：[https://github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)
 
 https://github.com/svcvit/Awesome-Dify-Workflow
 
-* any list
-{:toc}

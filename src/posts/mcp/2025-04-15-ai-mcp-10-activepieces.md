@@ -17,15 +17,11 @@ published: true
 
 - **💖 人人喜爱**：界面直观，技术与非技术用户都能快速上手，学习曲线平缓。
 
-![](/resources/templates.gif)
-
 - **🌐 开放生态**：所有 Piece 都是开源的，发布在 npmjs.com 上，**其中 60% 来自社区贡献**。
 
 - **🛠️ 最大的开源 MCP 工具集**：我们提供了超过 280 个 Piece，可在 Claude Desktop、Cursor 或 Windsurf 上与 LLM 一起使用。
 
 - **🛠️ 用 TypeScript 编写的 Piece**：Piece 是以 TypeScript 编写的 npm 包，支持完整自定义，开发体验极佳，支持在本地开发时使用 **热重载**。😎
-
-![](/resources/create-action.png)
 
 - **🤖 AI 优先**：内置 AI Piece，支持各种 AI 服务商；你还可以使用我们的 AI SDK 创建自己的代理。内置 Copilot 助你在构建器中轻松搭建流程。
 
@@ -67,11 +63,7 @@ Activepieces 的社区版以 [MIT 许可证](https://github.com/activepieces/act
 
 阅读功能版本比较请查看：https://www.activepieces.com/docs/about/editions  
 
-
-
 # 参考资料
 
 https://github.com/activepieces/activepieces/blob/main/README.md
 
-* any list
-{:toc}

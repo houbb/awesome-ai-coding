@@ -242,5 +242,3 @@ server.connect(transport);
 
 https://github.com/microsoft/playwright-mcp
 
-* any list
-{:toc}

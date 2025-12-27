@@ -102,5 +102,3 @@ Markdown 正文部分包含实际的操作指令，对结构和内容没有特�
 
 https://agentskills.io/what-are-skills
 
-* any list
-{:toc}

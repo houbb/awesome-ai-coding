@@ -236,5 +236,3 @@ Made with ❤️ in Zurich and San Francisco
 
 https://github.com/browser-use/browser-use/blob/main/README.md
 
-* any list
-{:toc}

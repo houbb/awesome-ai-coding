@@ -243,5 +243,3 @@ skills-ref validate ./my-skill
 
 
 
-* any list
-{:toc}

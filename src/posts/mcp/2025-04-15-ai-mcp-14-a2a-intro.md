@@ -108,5 +108,3 @@ A2A 协议是由 Google LLC 发起的开源项目，采用 [许可证](LICENSE)�
 
 https://github.com/google/A2A/blob/main/README.md
 
-* any list
-{:toc}
