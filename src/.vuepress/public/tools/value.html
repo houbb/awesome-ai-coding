@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>学习方法论价值金字塔</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #1e1e2f;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    h1 {
+        margin: 20px 0;
+        text-align: center;
+    }
+    #pyramid-container {
+        width: 90%;
+        max-width: 600px;
+        margin: 20px auto;
+        position: relative;
+    }
+    .layer {
+        margin: 5px 0;
+        padding: 15px;
+        border-radius: 8px;
+        text-align: center;
+        cursor: pointer;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .layer:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0 15px rgba(255,255,255,0.3);
+    }
+    #controls {
+        width: 90%;
+        max-width: 600px;
+        margin: 20px auto;
+        background: #2e2e44;
+        padding: 15px;
+        border-radius: 8px;
+    }
+    #controls input, #controls textarea, #controls button {
+        width: 100%;
+        margin: 5px 0;
+        padding: 8px;
+        border-radius: 4px;
+        border: none;
+    }
+    #controls input[type="color"] {
+        height: 35px;
+        padding: 0;
+    }
+    #layers-list {
+        margin-top: 10px;
+    }
+    .layer-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 5px 0;
+        background: #3e3e5c;
+        padding: 5px 10px;
+        border-radius: 4px;
+    }
+    .layer-item span {
+        flex: 1;
+        margin-right: 10px;
+    }
+    .layer-item button {
+        width: 60px;
+        background: #ff4c4c;
+        color: #fff;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+
+<h1>学习方法论价值金字塔生成器</h1>
+
+<div id="controls">
+    <input type="text" id="layer-title" placeholder="层标题">
+    <textarea id="layer-desc" rows="2" placeholder="层描述"></textarea>
+    <input type="color" id="layer-color">
+    <button onclick="addLayer()">添加层</button>
+
+    <div id="layers-list"></div>
+    <button onclick="renderPyramid()">生成金字塔</button>
+</div>
+
+<div id="pyramid-container"></div>
+
+<script>
+let layers = [];
+
+function addLayer() {
+    const title = document.getElementById('layer-title').value.trim();
+    const desc = document.getElementById('layer-desc').value.trim();
+    const color = document.getElementById('layer-color').value || null;
+    if(!title) {
+        alert("请填写层标题！");
+        return;
+    }
+    layers.push({title, desc, color});
+    updateLayerList();
+    document.getElementById('layer-title').value = '';
+    document.getElementById('layer-desc').value = '';
+    document.getElementById('layer-color').value = '';
+}
+
+function removeLayer(index) {
+    layers.splice(index, 1);
+    updateLayerList();
+}
+
+function updateLayerList() {
+    const list = document.getElementById('layers-list');
+    list.innerHTML = '';
+    layers.forEach((layer, i) => {
+        const div = document.createElement('div');
+        div.className = 'layer-item';
+        div.innerHTML = `<span>${layer.title} - ${layer.desc}</span>
+                         <button onclick="removeLayer(${i})">删除</button>`;
+        list.appendChild(div);
+    });
+}
+
+function renderPyramid() {
+    const container = document.getElementById('pyramid-container');
+    container.innerHTML = '';
+    if(layers.length === 0) return;
+
+    const maxWidth = container.clientWidth;
+    const step = maxWidth / layers.length / 2;
+
+    layers.slice().reverse().forEach((layer, i) => {
+        const div = document.createElement('div');
+        div.className = 'layer';
+        div.innerHTML = `<strong>${layer.title}</strong><br>${layer.desc}`;
+        div.style.background = layer.color || `hsl(${(i*60)%360},70%,50%)`;
+        div.style.width = `${50 + i*step}%`;
+        div.style.margin = '0 auto';
+        container.appendChild(div);
+    });
+}
+</script>
+
+</body>
+</html>
