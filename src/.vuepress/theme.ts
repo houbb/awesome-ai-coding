@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "/assets/images/lmxxf.png",
 
-  repo: "bbhou/lmxxf-notes",
+  repo: "houbb/awesome-ai-coding",
 
   docsDir: "src",
 
