@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第13章　NLP 领域的机器学习实践
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

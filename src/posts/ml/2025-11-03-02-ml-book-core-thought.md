@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: dive-into-llms-112-第2章 机器学习的核心思想
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

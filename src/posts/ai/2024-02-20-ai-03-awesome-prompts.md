@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI-03-Awesome ChatGPT Prompts 一个与ChatGPT模型一起使用的提示示例集合+ChatGPT 中文调教指南
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

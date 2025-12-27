@@ -1,5 +1,5 @@
 ---
-layout: post 
+ 
 title: AI CHATGPT 使用初体验  
 date: 2022-12-06 21:01:55 +0800
 categories: [AI] 

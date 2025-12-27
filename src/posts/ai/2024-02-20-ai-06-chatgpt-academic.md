@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI-06-GPT 学术优化 (GPT Academic)
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

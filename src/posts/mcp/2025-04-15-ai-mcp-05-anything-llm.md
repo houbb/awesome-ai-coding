@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI MCP(大模型上下文)-05-anything-llm AnythingLLM 您一直在寻找的全方位AI应用程序
 date: 2025-4-15 17:51:19 +0800
 categories: [AI]

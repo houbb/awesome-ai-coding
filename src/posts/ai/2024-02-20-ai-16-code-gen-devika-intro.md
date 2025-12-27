@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: ai-16-devika AI 软件工程师，Devin 的开源替代方案。程序员会被替代吗？ 
 date: 2024-03-26 21:01:55 +0800
 categories: [AI]

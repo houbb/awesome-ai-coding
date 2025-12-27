@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI MCP(大模型上下文)-08-分享一些好用的 Dify DSL 工作流程
 date: 2025-4-15 17:51:19 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第1章 机器学习的诞生与演化
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

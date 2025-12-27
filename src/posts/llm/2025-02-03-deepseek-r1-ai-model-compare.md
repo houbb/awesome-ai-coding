@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: DeepSeek R1 AI 模型到底牛在哪里？
 date: 2025-2-3 13:04:22 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI SDD 开发规范-16-AI 协作开发规范（历史项目版）
 date: 2025-11-20 14:12:33 +0800
 categories: [AI]

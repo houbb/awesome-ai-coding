@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: dive-into-llms-07-Transformers pipeline 入门例子
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI SDD 开发规范-07-如何在Cursor、Trae等工具中使用Skills？
 date: 2025-11-20 14:12:33 +0800
 categories: [AI]

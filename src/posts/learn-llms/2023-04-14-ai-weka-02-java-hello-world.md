@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Weka 入门学习-02-weka java hello world 入门例子
 date:  2023-04-14 +0800
 categories: [AI]

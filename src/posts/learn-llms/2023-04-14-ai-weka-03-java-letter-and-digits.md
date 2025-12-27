@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Weka 入门学习-03-weka java 识别手写数字和字母
 date:  2023-04-14 +0800
 categories: [AI]

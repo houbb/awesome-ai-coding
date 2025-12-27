@@ -1,5 +1,5 @@
 ---
-layout: post 
+ 
 title: AI DELL-2 绘画入门体验
 date: 2022-12-06 21:01:55 +0800
 categories: [AI] 

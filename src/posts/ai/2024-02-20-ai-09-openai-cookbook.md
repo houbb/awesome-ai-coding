@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI-09-openai cookbook 网络相关资源
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

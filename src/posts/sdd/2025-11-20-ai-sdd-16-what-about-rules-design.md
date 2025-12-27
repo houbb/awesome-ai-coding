@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI SDD 开发规范-16-GEMINI RULES+研发设计文档+project profile 的思路点评
 date: 2025-11-20 14:12:33 +0800
 categories: [AI]

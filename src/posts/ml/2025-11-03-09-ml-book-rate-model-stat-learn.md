@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第9章　概率模型与统计学习
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: dive-into-llms-06-Transformers 基本环境安装快速入门
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

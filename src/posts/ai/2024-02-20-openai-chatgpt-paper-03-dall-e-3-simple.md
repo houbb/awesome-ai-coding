@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: openai chatgpt paper-01-openai DALL-E 3 从文本描述生成图像原理通俗解释
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

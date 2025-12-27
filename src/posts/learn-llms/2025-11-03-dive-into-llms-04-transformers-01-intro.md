@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: dive-into-llms-04-Transformers 简介
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

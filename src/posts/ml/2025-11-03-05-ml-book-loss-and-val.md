@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第5章　优化与数值计算
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

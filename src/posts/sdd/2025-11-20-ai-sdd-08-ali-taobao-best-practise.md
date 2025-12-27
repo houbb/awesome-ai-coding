@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI SDD 开发规范-08-阿里淘宝的 AI 编程最佳实现
 date: 2025-11-20 14:12:33 +0800
 categories: [AI]

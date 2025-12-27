@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Manus AI 全球首款通用型AI Agent?
 date: 2025-3-7 19:49:19 +0800
 categories: [AI]

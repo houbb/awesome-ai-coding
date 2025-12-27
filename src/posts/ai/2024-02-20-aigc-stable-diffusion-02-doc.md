@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Stable Diffusion-01-入门概览 
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

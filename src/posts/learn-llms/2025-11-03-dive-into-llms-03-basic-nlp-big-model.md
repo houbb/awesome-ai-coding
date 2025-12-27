@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: dive-into-llms-03-自然语言处理／大模型的一些背景概念
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

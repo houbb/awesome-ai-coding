@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第8章　决策树与集成学习
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

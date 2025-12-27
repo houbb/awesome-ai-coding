@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: GOOGLE CLI 入门体验
 date: 2025-12-15 21:01:55 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第16章　深度学习的兴起
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

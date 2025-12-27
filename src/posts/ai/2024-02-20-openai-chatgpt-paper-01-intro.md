@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: openai chatGPT 原理通俗介绍
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI SDD 开发规范-10-SKILLS 文档自动生成
 date: 2025-11-20 14:12:33 +0800
 categories: [AI]

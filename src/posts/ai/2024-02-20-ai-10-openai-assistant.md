@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI-10-openai Assistant 旨在让每个人都能访问一个优秀的基于聊天的大型语言模型
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

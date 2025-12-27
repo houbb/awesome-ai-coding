@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI MCP(大模型上下文)-07-dify 入门介绍
 date: 2025-4-15 17:51:19 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 如何入门学习 AI-03-数学
 date:  2023-04-14 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI MCP(大模型上下文)-10-Activepieces 一个开源的 Zapier 替代方案
 date: 2025-4-15 17:51:19 +0800
 categories: [AI]

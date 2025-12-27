@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 第21章　机器学习的未来
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 如何入门学习 AI-02-基础的机器学习理论 监督学习、非监督学习、强化学习
 date:  2023-04-14 +0800
 categories: [AI]

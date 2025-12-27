@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AI-07-generative-ai-for-beginners 初学者的生成式人工智能（第二版）
 date: 2024-02-20 21:01:55 +0800
 categories: [AI]

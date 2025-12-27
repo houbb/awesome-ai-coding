@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AgentGPT-01-在浏览器中组装、配置和部署自主 AI 代理 入门介绍
 date: 2025-4-3 14:03:48 +0800
 categories: [AI]

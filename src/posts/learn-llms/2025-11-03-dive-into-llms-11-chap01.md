@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: dive-into-llms-01-快速入门 python 
 date: 2025-11-03 20:40:12 +0800
 categories: [AI]
