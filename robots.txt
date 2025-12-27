@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://houbb.github.io/blog-thinking/sitemap.xml
+Sitemap: https://houbb.github.io/awesome-ai-coding/sitemap.xml
