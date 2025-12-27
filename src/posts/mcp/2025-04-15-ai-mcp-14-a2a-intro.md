@@ -1,7 +1,7 @@
 ---
 
 title: AI MCP(大模型上下文)-14-Agent2Agent 协议 A2A google
-date: 2025-4-15
+date: 2025-04-15
 categories: [AI]
 tags: [ai, mcp, sh]
 published: true

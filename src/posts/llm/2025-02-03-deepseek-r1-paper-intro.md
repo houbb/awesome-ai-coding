@@ -1,7 +1,7 @@
 ---
 
 title: DeepSeek R1 AI 论文翻译 
-date: 2025-2-3
+date: 2025-02-03
 categories: [AI]
 tags: [ai, paper, sh]
 published: true

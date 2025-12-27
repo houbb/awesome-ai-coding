@@ -1,7 +1,7 @@
 ---
 
 title: AI 大模型 MCP 介绍与从零实现实战
-date: 2025-9-16
+date: 2025-09-16
 categories: [AI]
 tags: [ai, deepseek, sh]
 published: true

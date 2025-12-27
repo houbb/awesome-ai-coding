@@ -1,7 +1,7 @@
 ---
 
 title: Browser-use 是连接你的AI代理与浏览器的最简单方式
-date: 2025-4-3
+date: 2025-04-03
 categories: [AI]
 tags: [ai, ai-agent, sh]
 published: true
