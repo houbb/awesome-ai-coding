@@ -177,5 +177,3 @@ Make a mobile app UI for e-commerce
 [1]: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?utm_source=chatgpt.com "GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
 [2]: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill "GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
 
-* any list
-{:toc}

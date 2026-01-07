@@ -6,30 +6,6 @@ tags: [ai, ai-coding, rag, sh]
 published: true
 ---
 
-
-
-<p align="center">
-  <img height="160" src="./assets/banner_litho_white.png">
-</p>
-
-<h3 align="center">Litho (deepwiki-rs)</h3>
-
-<p align="center">
-    <a href="./README.md">English</a>
-    |
-    <a href="./README_zh.md">中文</a>
-</p>
-<p align="center">💪🏻 基于 <strong>Rust</strong> 的高性能 <strong>AI 驱动</strong> 文档生成引擎（类 DeepWiki）</p>
-<p align="center">📚 自动为任意代码库生成高质量的 <strong>Repo-Wiki / 项目架构文档</strong></p>
-
-<p align="center">
-  <a href="https://crates.io/crates/deepwiki-rs"><img src="https://img.shields.io/crates/v/deepwiki-rs?color=44a1c9" /></a>
-  <a href="https://crates.io/crates/deepwiki-rs"><img src="https://img.shields.io/crates/d/deepwiki-rs.svg" /></a>
-  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/sopaco/deepwiki-rs/rust.yml">
-</p>
-
-<hr />
-
 # 👋 什么是 Litho
 
 **Litho**（也称为deepwiki-rs）是一个基于Rust的高性能AI文档生成引擎，能够自动为软件项目创建全面的技术说明文档。通过先进的AI分析能力，Litho智能地探索项目结构，识别核心模块，分析依赖关系，并生成专业的架构文档。
@@ -435,5 +411,3 @@ project-docs/
 
 作者为一名资深互联网从业者，经历 PC 互联网、移动互联网与 AI 应用多个发展阶段，具有丰富的产品和研发经验。目前在快手从事大前端与 AI 探索相关工作。
 
-* any list
-{:toc}

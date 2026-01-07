@@ -173,5 +173,3 @@ clang                                   \
 https://github.com/tree-sitter/tree-sitter
 
 
-* any list
-{:toc}

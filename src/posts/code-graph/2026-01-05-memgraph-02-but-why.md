@@ -205,5 +205,3 @@ Memgraph 的优势在于：
 
 https://github.com/tree-sitter/tree-sitter
 
-* any list
-{:toc}

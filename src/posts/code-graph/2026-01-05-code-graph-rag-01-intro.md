@@ -204,5 +204,3 @@ claude mcp add --transport stdio graph-code \
 
 [1]: https://github.com/vitali87/code-graph-rag "GitHub - vitali87/code-graph-rag: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
 
-* any list
-{:toc}

@@ -170,5 +170,3 @@ Tree-sitter / AST / CST 的核心价值只有一个词：
 
 https://github.com/tree-sitter/tree-sitter
 
-* any list
-{:toc}

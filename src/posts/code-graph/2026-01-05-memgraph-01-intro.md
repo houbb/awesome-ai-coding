@@ -170,5 +170,3 @@ Memgraph 支持的命令行选项详见 [参考手册](https://memgraph.com/docs
 
 https://github.com/tree-sitter/tree-sitter
 
-* any list
-{:toc}
