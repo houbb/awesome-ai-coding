@@ -20,7 +20,9 @@ published: true
 
 [https://github.com/bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ([GitHub][1])
 
-本项目提供一套完整的 **AI 驱动敏捷开发方法和框架**。其核心理念是通过多个专门化的 AI 代理协作执行结构化工作流，从而支持从 **快速 Bug 修复到企业级平台构建** 的全生命周期开发。([GitHub][1])
+本项目提供一套完整的 **AI 驱动敏捷开发方法和框架**。
+
+其核心理念是通过多个专门化的 AI 代理协作执行结构化工作流，从而支持从 **快速 Bug 修复到企业级平台构建** 的全生命周期开发。([GitHub][1])
 
 ---
 
