@@ -344,8 +344,9 @@ mytool --config=$CONFIG --name="test"
 
 ## ReadTool：安全、可缓存的文件读取
 
-`ReadTool` 是 Claude Code 中**使用频率最高、也是安全模型最严格**的工具之一。它的设计目标是：
-在**可审计、可缓存、可回收**的前提下，为 LLM 提供文件系统只读访问能力。
+`ReadTool` 是 Claude Code 中**使用频率最高、也是安全模型最严格**的工具之一。
+
+它的设计目标是：在**可审计、可缓存、可回收**的前提下，为 LLM 提供文件系统只读访问能力。
 
 ```tsx
 interface ReadToolInput {
