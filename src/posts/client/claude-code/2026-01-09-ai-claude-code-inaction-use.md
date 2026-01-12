@@ -51,6 +51,8 @@ npx @z_ai/coding-helper
 
 ----
 
+PS: 实际测试好像没成功，可以自己手动改一下配置文件。
+
 
 本质上就是改了下配置文件
 
@@ -77,6 +79,20 @@ npx @z_ai/coding-helper
 }
 ```
 
+也可以手动改一下一下模型
+
+```json
+"env": {
+    "ANTHROPIC_AUTH_TOKEN": "your_zhipu_api_key",
+    "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
+    "API_TIMEOUT_MS": "3000000",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1,
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-4.5-air",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-4.7",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-4.7"
+},
+```
+
 # 开始使用 Claude Code
 
 配置完成后，进入一个您的代码工作目录，在终端中执行 claude 命令即可开始使用 Claude Code
@@ -88,6 +104,38 @@ npx @z_ai/coding-helper
 ![Claude Code](https://cdn.bigmodel.cn/markdown/1753631613096claude-2.png?attname=claude-2.png)
 
 完毕！现在就可以正常使用 Claude Code 进行开发了。
+
+PS: 个人没有看到是否使用 api-keys 的提示。
+
+## status
+
+```
+ /status
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ ──
+  Settings:  Status   Config   Usage  (←/→ or tab to cycle)
+
+
+  Version: 2.1.2
+  Session name: /rename to add a name
+  Session ID: xxx
+  cwd: D:\ai\im-plateform
+  Auth token: ANTHROPIC_AUTH_TOKEN
+  Anthropic base URL: https://open.bigmodel.cn/api/anthropic
+
+  Model: Default (glm-4.7)
+  Memory:
+  Setting sources: User settings
+
+  System Diagnostics
+   ⚠ Installation config mismatch: running npm-global but config says unknown
+```
+
+这里可以看到对应的模型信息。
+
+## 测试
 
 
 
